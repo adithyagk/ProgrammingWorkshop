@@ -1,0 +1,9 @@
+compile and link to create an executable 
+    * g++ -Wall "appname.cpp" -std=++14
+
+just compile
+    * g++ -c -Wall "appname.cpp" -std=++14
+    * Creates appname.o file(object file)
+
+Create executable from .o file
+    *  g++ -o sample file.o   
