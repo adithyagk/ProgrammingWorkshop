@@ -13,4 +13,4 @@ int main(){
     */
     return 0;
 }
-//Comppiler warnings happen when there is no error logically but compiler is not able to understand something.
+//Compiler warnings happen when there is no error logically but compiler is not able to understand something.
